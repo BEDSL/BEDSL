@@ -4,13 +4,11 @@ This lab is a dedicated space for exploring the intersection of business, econom
 
 
 ### Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/company/business-economics-data-science-lab/posts/?feedView=all)) 
-
+LinkedIn: [Business Economics Data Science Lab (BEDSL)](https://www.linkedin.com/company/business-economics-data-science-lab/)
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Badge">
 
 <!---
 BEDSL/BEDSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
